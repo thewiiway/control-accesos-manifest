@@ -1,7 +1,8 @@
 {
   "dataset": "accesos",
-  "version": 3,
-  "updated_at": "2025-11-03T22:15:00Z",
-  "bundle_url": "https://thewiiway.github.io/control-accesos-manifest/accesos-v3.zip",
-  "sha256": "1017d070a1eac9413df74e4932163b5dea9bef30cf33df23a83a15bd8a40634f"
+  "version": 4,
+  "updated_at": "2025-11-03T22:XX:00Z",
+  "bundle_url": "https://thewiiway.github.io/control-accesos-manifest/accesos-v4.zip",
+  "sha256": "9744cc10033b842cc65e0e5159bb68b40d9f8be2fa7a95ff8cbdbc6ac83f47d1"
 }
+
