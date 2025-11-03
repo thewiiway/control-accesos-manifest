@@ -1,7 +1,7 @@
 {
   "dataset": "accesos",
-  "version": 2,
-  "updated_at": "2025-10-29T22:40:47Z",
-  "bundle_url": "https://drive.proton.me/urls/5599QV6D5W#kVn7R20kmrvH",
-  "sha256": "a483e72679a180eb1d7202ded00eaf786235ea66b26c5f1fdc82117514e1ab19"
+  "version": 3,
+  "updated_at": "2025-11-03T22:15:00Z",
+  "bundle_url": "https://thewiiway.github.io/control-accesos-manifest/accesos-v3.zip",
+  "sha256": "1017d070a1eac9413df74e4932163b5dea9bef30cf33df23a83a15bd8a40634f"
 }
