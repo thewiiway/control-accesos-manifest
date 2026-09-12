@@ -1,8 +1,8 @@
 {
   "dataset": {
-    "version": 2,
+    "version": 3,
     "url": "https://thewiiway.github.io/control-accesos-manifest/control-accesos.json",
-    "sha256": "65a64938ece6fa23c41efb829325c4cd8d3fd27e4462620ed6f3adf8f1a2ef7c",
-    "updated_at": "2026-03-07T20:43:00Z"
+    "sha256": "6e2a474891459205a7be0ca9c56cdb11d5410b7f9504c60f50eac5f77ee724e5",
+    "updated_at": "2026-09-12T17:00:00Z"
   }
 }
